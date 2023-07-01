@@ -42,8 +42,8 @@ You can use this method with any Arduino card with an I2C port by connecting I2C
 ### Method 2: Using the SM Arduino Raspberry Pi Replacement Kit
 Sequent Microsystems [Arduino Uno, Nano, Teensy, Feather or ESP32 Raspberry Pi Replacement Kit](https://sequentmicrosystems.com/products/raspberry-pi-replacement-card) is an inexpensive adapter which can be used to control any of our HATs using Uno, Nano, Teensy, Feather or ESP32. Plug the Home Automation HAT into the 40 pin connector of the adapter and write your Arduino software.
 
-### Method 3: Using the SM ESP32-Pi Raspberry Pi Alternative Card
-ESP32-Pi is a Raspberry Pi alternate solution which can control directly the Home Automation HAT.
+### Method 3: Using the [SM ESP32-Pi Raspberry Pi Alternative Card](https://sequentmicrosystems.com/collections/all-io-cards/products/esp32-pi-low-cost-replacement-for-raspberry-pi)
+ESP32-Pi is a Raspberry Pi alternate solution which can control directly the RTD Data Acquisition HAT.
 In your sketchbook set the board type to DOIT ESP32 DEVKIT V1: Tool >> Board >> ESP32 Arduino >> DOIT ESP32 DEVKIT V1
 
 ## Function prototypes
