@@ -1,5 +1,5 @@
 # Sequent-RTD-Library
-Arduino library for Sequent Microsystems [RTD Data Acquisition 8-Layer Stackable HAT for Raspberry Pi](https://sequentmicrosystems.com/products/rtd-data-acquisition-card-for-rpii)
+Arduino library for Sequent Microsystems [RTD Data Acquisition 8-Layer Stackable HAT for Raspberry Pi](https://sequentmicrosystems.com/products/rtd-data-acquisition-card-for-rpi)
 
 ## Install
 ### Library manager
